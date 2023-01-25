@@ -1,4 +1,5 @@
 # Conversores_Java
+![gifprog](https://user-images.githubusercontent.com/86839388/214460687-595c25eb-5ac2-4b4c-aeeb-200b80050b6c.gif)
 Implementação do projeto em java chamado Conversores_java, projeto desenvolvido simulando um Conversor de moedas e um conversor de temperarura.
 Foi implementado tambem um simples tratamento de erro no conversor de moedas.
 
